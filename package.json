@@ -4,7 +4,7 @@
   "description": "clock-tower audio logic for raspberry pi",
   "main": "index.js",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-omxplayer": "^0.6.1"
   },
   "devDependencies": {},
